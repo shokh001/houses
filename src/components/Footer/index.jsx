@@ -6,15 +6,14 @@ export const Why = () => {
       <Content>
         <Content.Title>Contact Us</Content.Title>
         <Content.Item>
-          <Icon.Email /> Bunyodkor kochasi, Chilonzor 64-dom, 2-etaj, 1-hone,
-          Webbrain Academy
+          <Icon.Email /> Bunyodkor kochasi, Chilonzor 64-dom, 2-etaj, 1-hone.
         </Content.Item>
         <Content.Item>
           {' '}
-          <Icon.Phone /> 998 33 576 2020
+          <Icon.Phone /> 91 220 20 01
         </Content.Item>
         <Content.Item>
-          <Icon.Email /> webbrainacademy@gmail.com
+          <Icon.Email /> shohjahondilmurodov56@gmail.com
         </Content.Item>
       </Content>
       <Content>
@@ -28,19 +27,18 @@ export const Why = () => {
       <Content>
         <Content.Title>Financing Made Easy</Content.Title>
 
-        <Content.Item>Frontend </Content.Item>
-        <Content.Item>Backend </Content.Item>
-        <Content.Item>Mobile </Content.Item>
-        <Content.Item>Flutter </Content.Item>
-        <Content.Item>Android </Content.Item>
+        <Content.Item>Apartments </Content.Item>
+        <Content.Item>Condos </Content.Item>
+        <Content.Item>Houses </Content.Item>
+        <Content.Item>Offices </Content.Item>
+        <Content.Item>Retail </Content.Item>
       </Content>
       <Content>
         <Content.Title>See Neighborhoods</Content.Title>
 
-        <Content.Item>t.me/webbrain_admin</Content.Item>
-        <Content.Item>t.me/webbrain_ceo</Content.Item>
-        <Content.Item>instagram.com/webbrain_admin</Content.Item>
-        <Content.Item>instagram.com/smd_94</Content.Item>
+        <Content.Item>t.me/dilmurodv1</Content.Item>
+        <Content.Item>instagram.com/dilmurodv01</Content.Item>
+        <Content.Item>facebook.com/shohjahon.dilmurodov/</Content.Item>
       </Content>
     </Container>
   );

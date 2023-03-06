@@ -1,9 +1,3 @@
-# Getting Started with Webbrain Academy
-
-This project is available on github [Houzing](https://github.com/mukhtorov/houzing).
-
-# can see the DEMO [Houzing](https://netlify.com/mukhtorov/houzing).
-
 ## Available Scripts
 
 In the project directory, you can run:
